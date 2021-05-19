@@ -4301,7 +4301,7 @@ font-weight: 600;
         height: 100%;
         width: 100%;
         top: 0;
-        background-image: url(../images/frosted.png);
+     
         background-size: 30%;
         filter: invert(100%)
     }
@@ -4316,7 +4316,7 @@ font-weight: 600;
         height: 100%;
         width: 100%;
         top: 0;
-        background-image: url(../images/frosted.png);
+      
         background-size: 29%
     }
     .view .mobile-play .module-item-cover:before {
