@@ -239,16 +239,16 @@ input[type=checkbox] {
     border-top: 8px solid rgba(7, 7, 10, .92)
 }
 @font-face {
-    font-family: dianyingim;
-    src: url(../fonts/dianyingim.eot?fangfang);
-    src: url(../fonts/dianyingim.eot?fangfang#iefix) format("embedded-opentype"), url(../fonts/dianyingim.ttf?fangfang) format("truetype"), url(../fonts/dianyingim.woff?fangfang) format("woff"), url(../fonts/dianyingim.svg?fangfang#dianyingim) format("svg");
+    font-family: smy;
+    src: url(../fonts/smy.eot?fangfang);
+    src: url(../fonts/smy.eot?fangfang#iefix) format("embedded-opentype"), url(../fonts/smy.ttf?fangfang) format("truetype"), url(../fonts/smy.woff?fangfang) format("woff"), url(../fonts/smy.svg?fangfang#smy) format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: block
 }
 [class^=icon-],
 [class*=" icon-"] {
-    font-family: dianyingim !important;
+    font-family: smy !important;
     speak: never;
     font-style: normal;
     font-weight: 400;
