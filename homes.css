@@ -248,7 +248,7 @@ input[type=checkbox] {
 }
 [class^=icon-],
 [class*=" icon-"] {
-    font-family: dianying.im !important;
+    font-family: dianyingim !important;
     speak: never;
     font-style: normal;
     font-weight: 400;
