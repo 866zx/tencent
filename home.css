@@ -240,8 +240,8 @@ input[type=checkbox] {
 }
 @font-face {
     font-family: smy;
-    src: url(/fonts/smy.eot?fangfang);
-    src: url(/fonts/smy.eot?fangfang#iefix) format("embedded-opentype"), url(/fonts/smy.ttf?fangfang) format("truetype"), url(/fonts/smy.woff?fangfang) format("woff"), url(/fonts/smy.svg?fangfang#smy) format("svg");
+    src: url(https://cdn.jsdelivr.net/gh866zx/tencent/fonts/smy.eot?fangfang);
+    src: url(https://cdn.jsdelivr.net/gh866zx/tencent/fonts/smy.eot?fangfang#iefix) format("embedded-opentype"), url(https://cdn.jsdelivr.net/gh866zx/tencent/fonts/smy.ttf?fangfang) format("truetype"), url(https://cdn.jsdelivr.net/gh866zx/tencent/fonts/smy.woff?fangfang) format("woff"), url(/fonts/smy.svg?fangfang#smy) format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: block
